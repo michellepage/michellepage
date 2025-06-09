@@ -1,4 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/768409e9-9e7b-438b-96f0-4beb86c5bf34" />
+</p>
+
+
+## ⭐ About Me
+Hi, I'm Michelle! I'm a student at Texas A&M University studying Applied Mathematics and minoring in Computer Science. I'm interested in quantitative finance and development, and in my free time, I enjoy playing the piano and listening to nu metal.
+
+Currently, I'm working as a Software Engineer for CAE USA Inc.
+
+## 🌿 Tech Stack
+- C++
+- C
+- MobaXTerm
+- Visual Studio Code
+
+
+
+
+
 
 <!--
 **michellepage/michellepage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
