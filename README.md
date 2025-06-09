@@ -4,7 +4,7 @@
 
 
 ## ⭐ About Me
-Hi, I'm Michelle! I'm a student at Texas A&M University majoring in Applied Mathematics and minoring in Computer Science. I'm interested in quantitative finance and development, and in my free time, I enjoy playing the piano and listening to nu metal.
+Hi, I'm Michelle! I'm currently pursuing a B.S. in Applied Mathematics with a minor in Computer Science at Texas A&M University. I'm interested in quantitative finance and development, and in my free time, I enjoy playing the piano and listening to nu metal.
 
 Currently, I'm working as a Software Engineer for CAE USA Inc.
 
